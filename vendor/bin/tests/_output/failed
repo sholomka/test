@@ -1,0 +1,14 @@
+tests\acceptance\AdminAccessRightsCept.php
+tests\acceptance\DeleteServiceCept.php
+tests\acceptance\DeleteUserCept.php
+tests\acceptance\DocumentationCept.php
+tests\acceptance\EditServiceCept.php
+tests\acceptance\EditUserCept.php
+tests\acceptance\GuestAccessRightsCept.php
+tests\acceptance\LoginAndLogoutCept.php
+tests\acceptance\ManagerAccessRightsCept.php
+tests\acceptance\QueryCustomerByPhoneNumberCept.php
+tests\acceptance\RegisterNewServiceCept.php
+tests\acceptance\RegisterNewUserCept.php
+tests\acceptance\SmokeTestCept.php
+tests\acceptance\UserAccessRightsCept.php

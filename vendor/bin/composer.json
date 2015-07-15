@@ -1,0 +1,6 @@
+{
+    "require": {
+        "fzaninotto/faker": "*",
+        "yiisoft/yii2": "*"
+    }
+}
