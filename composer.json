@@ -1,0 +1,7 @@
+{
+    "require": {
+        "codeception/codeception": "*",
+        "yiisoft/yii2": "*",
+        "fzaninotto/faker": "*"
+    }
+}
